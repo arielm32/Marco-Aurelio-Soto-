@@ -1,0 +1,8 @@
+body{background-color:green}
+   p{font-family:monospace}
+
+
+
+img.alineadoTextoImagenArriba{
+  vertical-align: text-top;
+}
